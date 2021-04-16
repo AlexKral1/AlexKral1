@@ -1,9 +1,9 @@
-Hi! Im Alex Král, 
-Im 13 year old
-Im from Czech republic 
-Im new on github, 
-Im now learning how to code.
-I want to make open world videogames.
+- Hi! Im Alex Král, 
+- Im 13 year old
+- Im from Czech republic 
+- Im new on github, 
+- Im now learning how to code.
+- I want to make open world videogames.
 _______________________________________________
 - 👋 Hi, I’m @AlexKral1
 - 👀 I’m interested in video games
